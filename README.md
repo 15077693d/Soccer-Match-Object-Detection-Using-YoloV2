@@ -8,6 +8,6 @@
 7. Color detection by opencv and custom function
 
 ---
-Code reference from Stack Overflow user markjay4k and kitchun0402. Thank you coders for sharing your experience! =]
+Code reference from GitHub user markjay4k and kitchun0402. Thank you coders for sharing your experience!
 
 ![Alt Text](https://github.com/15077693d/Soccer-Match-Object-Detection-Using-YoloV2/blob/master/read_me.gif)
